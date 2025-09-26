@@ -1,4 +1,4 @@
-#Let the chat bot guess your age
+# Let the chat bot guess your age
 <div class="step-text">
 <h5 id="description" style="text-align: center;">Description</h5>
 <p>Keep improving your bot by developing new skills for it. We suggest a simple guessing game that will predict the age of a user.</p>
