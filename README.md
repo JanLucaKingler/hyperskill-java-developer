@@ -17,7 +17,7 @@ Ein Programm zur Simulation einer Verkehrsampel. Es nutzt einfache Zustandswechs
 
 ---
 
-### ✏️ [Last Pencil Game](./last-pencil)
+### ✏️ [Last Pencil Game](./Last Pencil (Java))
 Ein Zweispieler-Minispiel (Mensch vs. Computer), bei dem man abwechselnd Bleistifte entfernt. Wer den letzten nimmt, verliert. Das Spiel enthält eine einfache AI-Logik.
 
 ---
